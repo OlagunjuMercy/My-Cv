@@ -1,0 +1,18 @@
+
+	a { color: #fff; text-decoration: none;}
+body{ background-color: pink}
+h2{text-transform:capitalize;}
+h3{text-transform: capitalize;}
+	img{width:100px;height:100px;border-radius:70%;}
+	 body{color:black;}
+	hr{border-style:none;border-top-style:dotted; width:5%;border-width:2px;border-color:purple;}
+	button{background-color:darkblue;border-width:2px;border:none;border-radius: 6px;height: 20px;
+	cursor: pointer;}
+
+	button:hover{ background-color:blue;color:darkblue;}
+	
+	
+	
+
+	
+	
